@@ -8,6 +8,7 @@
   "exports": {
     ".": {
       "types": "./index.d.ts",
+      "node": "./index.node.js",
       "import": "./index.web.js",
       "browser": "./index.browser.js",
       "require": "./index.node.js",
